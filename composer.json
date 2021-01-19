@@ -1,8 +1,8 @@
 {
-    "name": "jantinnerezo/livewire-alert",
+    "name": "zepson/livewire-alert",
     "description": "This package provides a simple alert utilities for your livewire components.",
     "keywords": [
-        "jantinnerezo",
+        "zepson",
         "livewire-alert"
     ],
     "homepage": "https://github.com/jantinnerezo/livewire-alert",
@@ -10,9 +10,9 @@
     "type": "library",
     "authors": [
         {
-            "name": "Jantinn Erezo",
-            "email": "erezojantinn@gmail.com",
-            "role": "Developer"
+            "name": "Zepson Technologies",
+            "email": "ujumbe@zepson.co.tz",
+            "role": "Company"
         }
     ],
     "require": {
